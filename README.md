@@ -2,6 +2,7 @@
 📊 Tokyo Olympics Data Engineering Project
 This project demonstrates a complete data engineering pipeline built on Microsoft Azure, using data from the Tokyo 2020 Olympic Games. It showcases how large-scale datasets can be ingested, transformed, analysed, and stored using modern cloud-based technologies.
 
+
 🔧 Tech Stack
 Azure Data Factory: Orchestrated data ingestion and movement from raw CSV files to the data lake.
 
@@ -12,6 +13,8 @@ Azure Databricks: Performed data cleaning, transformation, and analysis using Py
 Azure Synapse Analytics: Enabled structured querying and reporting on processed datasets.
 
 GitHub Actions: Automated deployment and data uploads to Azure Blob Storage.
+
+
 
 📈 Pipeline Flow
 Raw Data Ingestion:
