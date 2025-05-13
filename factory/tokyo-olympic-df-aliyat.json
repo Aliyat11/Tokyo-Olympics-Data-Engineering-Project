@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-df-aliyat",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "731b0c72-bf89-4718-b734-1d0b464e0477",
+		"tenantId": "24439770-d719-4e70-9c43-1f8d1109d03c"
+	}
+}
